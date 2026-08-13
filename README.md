@@ -1,14 +1,20 @@
 # Curriculum-Industry Skill Feature Store Using Feast
 
+
 ## Student Details
 
+
 **Name:** K.Jaswanth 
+
 **Register Number:** 231FA04C57
+
 **Section:** 03
+
 
 \---
 
 ## Problem Statement
+
 
 The curriculum-industry skill-gap problem is to identify the difference between the skills covered by the curriculum and the skills demanded by industry.
 
@@ -35,7 +41,9 @@ The project demonstrates the complete feature-store workflow:
 
 # Dataset
 
+
 ## Dataset Size
+
 
 * **Total entries:** 1000
 * **Original dataset:** `skill\_gap\_dataset\_1000.csv`
